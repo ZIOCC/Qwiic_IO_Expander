@@ -1,4 +1,4 @@
-# Qwiic_IO_Expander
+# Qwiic IO Expander
 
 
 
