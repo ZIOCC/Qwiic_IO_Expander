@@ -56,9 +56,9 @@ The I/O Expander features two Qwiic connectors for quick and easy daisy-chaining
 
 #### Links
 
-* [SX1509 Datasheet](
-* [SparkFun SX1509 Arduino Library](
-* [Eagle files](
+* [SX1509 Datasheet](https://www.smart-prototyping.com/image/data/NOA-RnD/101901%20IO%20Expander/sx150x_89b.pdf)
+* [SparkFun SX1509 Arduino Library](https://github.com/sparkfun/SparkFun_SX1509_Arduino_Library)
+* [Eagle files](https://github.com/ZIOCC/Qwiic_IO_Expander)
 
 
 
